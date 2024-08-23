@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=35&duration=5000&pause=2000&color=FFFFFF&background=04130600&center=true&repeat=true&width=700&height=180&lines=Seja+Bem-Vindo%2C+meu+nome+%C3%A9+Pedro+;Desenvolvedor+Full+Stack;Fortaleza-Cear%C3%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=35&duration=5000&pause=2000&color=8A2BE2&background=04130600&center=true&repeat=true&width=700&height=180&lines=Seja+Bem-Vindo%2C+meu+nome+%C3%A9+Pedro+;Desenvolvedor+Full+Stack;Fortaleza-Cear%C3%A1" alt="Typing SVG"/>
 </p>
+
 
 
 #### Olá, meu nome é Pedro, tenho 30 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS). Estou em processo de transição de carreira, motivado pela minha paixão por tecnologia, que sempre esteve presente na minha vida. Busco constantemente evoluir profissionalmente, com foco no aprendizado de novas tecnologias e no desenvolvimento Full-Stack, para criar soluções inovadoras e impactantes.
